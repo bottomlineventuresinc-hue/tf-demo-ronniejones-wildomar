@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-069-ronniejones Ronnie Jones Air Conditioning & Heating (Wave 14 2026-09-30 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 14 files: see builds/_assets_dl/wave14/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- cr0925b/hvac-copper-hands.jpg : HVAC Feb 2017 (16) (flickr PDM https://www.flickr.com/photos/130889197@N03/33325214175)
+services-trade.jpg <- cr0925b/hvac-condenser-roof.jpg : A large air conditioning unit is situated on a sloped metal roof, with a clear b (wordpress CC0 https://wordpress.org/photos/photo/27469e3ea0/)
+people-crew.jpg <- wave14/hvac-units-building.jpg : Outdoor units beside a single-story building (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/41284017@N08/52304936875)
+people-marek.jpg <- wave12/hvac-copper-tubing.jpg : Hands working copper refrigerant tubing; hands only (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/130889197@N03/32482629304)
+people-tom.jpg <- wave14/hvac-furnace-archive.jpg : Older furnace equipment in a basement, black and white archival photo (wikimedia Public domain https://commons.wikimedia.org/wiki/File:GAS_FURNACE,_BASEMENT_-_Hamilton_Field,_Hospital,_Hospital_Drive,_Novato,_Marin_County,_CA_HABS_CAL,21-NOVA,1BB-8.tif)
+coverage-house.jpg <- wave12/house-arched-tile.jpg : Cream stucco home with arches and a clay tile roof (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Arcaded_cream_house_with_clay-tile_roof_in_Juan_Griego,_Margarita_Island,_Venezuela.jpg)
+hvac-condenser-house.jpg <- wave12/hvac-condenser-house.jpg : Residential AC condenser beside a house with gas meter (flickr CC0 1.0 https://www.flickr.com/photos/29155878@N03/20094897922)
+hvac-condensers-pair.jpg <- wave12/hvac-condensers-pair.jpg : Two residential AC condensers on pads in a planted side yard (flickr CC0 1.0 https://www.flickr.com/photos/29155878@N03/43467268155)
+hvac-furnace-old.jpg <- wave14/hvac-furnace-old.jpg : Old basement furnace, black and white archival photo (wikimedia Public domain https://commons.wikimedia.org/wiki/File:INTERIOR_VIEW_OF_%27OCTOPUS%27_HEATING_SYSTEM_IN_BASEMENT,_%27THE_HOLLAND_NO._50,_HOLLAND_FURNACE_COMPANY%27_-_Snow_Hill,_13209_Laurel-Bowie_Road,_Laurel,_Prince_George%27s_County,_MD_HABS_MD,17-LAUR.V,2-20.tif)
+hvac-filter-furnace.jpg <- wave12/hvac-filter-furnace.jpg : Hand holding a new air filter at a furnace; hand only (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=158722147)
+hvac-units-cluttered.jpg <- wave14/hvac-units-cluttered.jpg : Crowded, grimy outdoor units on a back wall (rawpixel CC0 1.0 https://www.rawpixel.com/image/6074073/mizonokuchi-4th-apr)
+hvac-rooftop-units.jpg <- wave14/hvac-rooftop-units.jpg : Packaged units on a commercial roof (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Rooftop_Packaged_Units.JPG)
+
+Note: Heating and air: the five services from the business's own archived site, nothing added. The service area is the business's own wording, verbatim, and no other area is named. The two suspended same-name domains are NOT used or linked; domain ideas avoid those strings.
